@@ -4,4 +4,12 @@ implicits-gen.tex
 *.fls
 *.log
 *.pdf
-
+_build
+*.install
+*.merlin
+*.tex
+*.pdf
+*.log
+*.fls
+*.fdb_latexmk
+*.aux

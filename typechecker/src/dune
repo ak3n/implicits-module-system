@@ -1,0 +1,8 @@
+(library
+ (name implicits)
+ (public_name implicits)
+ (libraries base))
+
+(env
+  (dev
+    (flags (:standard -warn-error -A))))
